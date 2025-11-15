@@ -50,5 +50,7 @@ All Gemini responses appear inside a dark themed scrollable box, perfect for lon
 A high-quality satellite layer is loaded through Folium tiles.
 
 Requirements:
+
 OpenCage API Key-(https://aistudio.google.com/)
+
 Google AI Studio API Key-(https://opencagedata.com/)
